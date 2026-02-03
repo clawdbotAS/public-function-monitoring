@@ -1,0 +1,129 @@
+# RESEARCH_AGENDA.md — Active Questions
+
+*Draft v1 — Feb 3, 2026*
+
+## Purpose
+
+This document tracks the research questions we're actively pursuing. The agent should work against these proactively, not just when asked.
+
+---
+
+## Priority 1: Lighthouse Countries
+
+### UK
+- [ ] Track GOV.UK Chat evolution (answers → actions)
+- [ ] Monitor i.AI outputs and publications
+- [ ] Identify engagement opportunities
+
+### Singapore
+- [ ] Track Model AI Governance Framework adoption
+- [ ] Monitor GovTech agentic initiatives
+- [ ] Document implementation lessons
+
+### Ukraine
+- [ ] Track Diia.AI developments
+- [ ] Monitor post-Fedorov continuity
+- [ ] Document scale and impact metrics
+
+### UAE
+- [ ] Track TAMM AutoGov progress
+- [ ] Verify claimed autonomy levels
+- [ ] Document governance approach
+
+### Estonia
+- [ ] Monitor Bürokratt development
+- [ ] Track X-Road AI integration
+- [ ] Identify pilot opportunities
+
+### Finland
+- [ ] Support ongoing Sitra engagement
+- [ ] Document assessment methodology learnings
+
+---
+
+## Priority 2: Framework Development
+
+### Assessment Framework
+- [ ] How do we measure "agentic readiness"?
+- [ ] What dimensions matter most?
+- [ ] How do we validate against real deployments?
+
+### Governance Models
+- [ ] How should governance evolve with autonomy?
+- [ ] What oversight mechanisms work?
+- [ ] What failure modes emerge?
+
+### "Incoming Agents" Thesis
+- [ ] What evidence exists for citizen/business agent deployment?
+- [ ] How are governments responding?
+- [ ] What protocols are emerging?
+
+---
+
+## Priority 3: Competitive Intelligence
+
+### Adjacent Initiatives
+- [ ] GovStack AI layer plans?
+- [ ] GovAI government focus expansion?
+- [ ] Consultancy framework development?
+
+### Standards Landscape
+- [ ] EU AI Act implementation for government
+- [ ] OECD agentic guidance development
+- [ ] ISO/standards body activity
+
+---
+
+## Priority 4: Funding Landscape
+
+### Foundation Tracking
+- [ ] European AI Fund — open calls?
+- [ ] McGovern Foundation — RFP timing?
+- [ ] Open Philanthropy — AI governance priorities?
+- [ ] Rockefeller Brothers Fund — AI democracy focus?
+
+### Government Funding
+- [ ] EU Horizon Europe AI calls
+- [ ] UK research funding for AI governance
+- [ ] US NSF AI governance programs
+
+---
+
+## Priority 5: Evidence Base
+
+### Success Stories
+- [ ] Document working government AI deployments
+- [ ] Quantify impact where possible
+- [ ] Identify transferable patterns
+
+### Failure Patterns
+- [ ] Track government AI failures as they emerge
+- [ ] Document lessons from GovTech failure patterns
+- [ ] Build "failure museum" content
+
+---
+
+## How to Use This Document
+
+### For the agent:
+- Work against these questions proactively
+- When monitoring or researching, check for updates to these questions
+- Propose new questions based on emerging patterns
+- Flag when a question is substantially answered
+
+### For humans:
+- Add new questions as they arise
+- Mark questions resolved when answered
+- Reprioritize based on strategic needs
+
+---
+
+## Status Tracking
+
+- [ ] = Open question, actively pursuing
+- [x] = Substantially answered (move to archive)
+- [~] = Deprioritized (explain why)
+
+---
+
+*Last updated: Feb 3, 2026*

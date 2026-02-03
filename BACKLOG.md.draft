@@ -1,0 +1,119 @@
+# BACKLOG.md — Work Queue
+
+*Draft v1 — Feb 3, 2026*
+
+## Purpose
+
+This is the shared task backlog. Agent can pull from "Ready" without asking. Humans add/prioritize items.
+
+---
+
+## Ready to Pull (Agent Can Do Anytime)
+
+### Research
+- [ ] Complete strategic recommendation synthesis
+- [ ] Update foundation tracker with Deep Research findings
+- [ ] Research potential UK government contacts
+- [ ] Map EU AI Act government-specific provisions
+
+### Content
+- [ ] Draft "incoming agents" thesis piece
+- [ ] Update Substack draft with industry benchmarks
+- [ ] Create 1-pager summary of competitive landscape
+
+### Operations
+- [ ] Test fixed cron job scheduling (small test job first)
+- [ ] Update MEMORY.md with recent learnings
+- [ ] Organize research files into consistent structure
+
+### Monitoring
+- [ ] Daily social monitoring (automated)
+- [ ] Weekly tracker refresh (automated)
+
+---
+
+## Needs Discussion First
+
+### Strategic
+- [ ] Finalize pitch text for foundation outreach
+- [ ] Decide on UK engagement approach
+- [ ] Prioritize lighthouse country focus for Q1
+
+### External
+- [ ] Draft outreach emails (need target approval)
+- [ ] Prepare for potential funder calls
+- [ ] Singapore framework comparison piece (positioning sensitive)
+
+### Operational
+- [ ] Decide on overnight work cadence
+- [ ] Review and approve MANDATE.md
+- [ ] Set up email send capability (security implications)
+
+---
+
+## Blocked / Waiting
+
+### Waiting on External
+- [ ] Finland engagement — awaiting next steps from Sitra
+- [ ] UAE engagement — awaiting confirmation
+- [ ] World Bank — methodology deliverable timing
+
+### Waiting on Decision
+- [ ] Alertly subscription (keep/cancel by Feb 4)
+- [ ] Overnight work approach (post cron fix)
+
+---
+
+## Recently Completed
+
+### Feb 3, 2026
+- [x] Competitive landscape analysis
+- [x] Strategic scenarios document
+- [x] Agent vision document
+- [x] Post-mortem on overnight job failure
+- [x] Save ChatGPT Deep Research files
+
+### Feb 2, 2026
+- [x] UK government research document analysis
+- [x] UK pitch memo
+- [x] Clawdbot self-reflection
+- [x] Industry benchmarking
+
+### Feb 1, 2026
+- [x] Daily social monitoring
+- [x] Layer 7 LinkedIn draft for Simone
+
+### Jan 31, 2026
+- [x] Foundation funding research
+- [x] Pitch analysis and tweaks
+- [x] 2026 playbook Substack draft
+
+---
+
+## How to Use
+
+### Agent:
+- Pull from "Ready" when you have capacity
+- Move to "Completed" when done
+- Propose items for "Ready" based on research agenda
+- Flag blockers
+
+### Humans:
+- Add items to "Needs Discussion"
+- Approve items to "Ready"
+- Prioritize within categories
+- Unblock waiting items
+
+---
+
+## Priority Levels
+
+When multiple items are ready:
+1. **Time-sensitive** (deadlines, external dependencies)
+2. **Strategic** (advances key goals)
+3. **Maintenance** (keeps things running)
+4. **Nice-to-have** (valuable but not urgent)
+
+---
+
+*Last updated: Feb 3, 2026*
