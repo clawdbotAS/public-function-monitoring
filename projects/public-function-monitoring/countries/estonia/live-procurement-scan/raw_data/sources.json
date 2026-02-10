@@ -1,0 +1,120 @@
+{
+  "analysis_date": "2026-02-10",
+  "sources": [
+    {
+      "name": "TED Portal",
+      "url": "https://ted.europa.eu",
+      "type": "api",
+      "notices_found": [
+        {
+          "id": "783169-2024",
+          "title": "Tableau litsentsid ja tootetugi",
+          "country": "EE",
+          "cpv": "72000000",
+          "issue": "brand_name_violation"
+        }
+      ]
+    },
+    {
+      "name": "OP Europa Procurement Details",
+      "url": "https://op.europa.eu/en/web/public-procurement",
+      "contracts": [
+        {
+          "procurement_id": "7e3d5ad8-f1f6-39d3-a395-137242512ae4",
+          "title": "Software development services",
+          "location": "Estonia-Tallinn",
+          "value": 198000,
+          "currency": "EUR",
+          "contractor": "Osaühing Webware",
+          "award_method": "Lowest price"
+        }
+      ]
+    },
+    {
+      "name": "RIT Central Procurement",
+      "url": "https://rit.ee/uudised/rit-ette-valmistamas-microsofti-litsentside-keskset-hanget",
+      "findings": [
+        {
+          "type": "upcoming_tender",
+          "product": "Microsoft licenses",
+          "framework_period": "36 months",
+          "expected_publication": "2026-06",
+          "scope": [
+            "all_government_agencies",
+            "constitutional_institutions", 
+            "local_governments"
+          ],
+          "issue": "vendor_lock_in"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Customer Story",
+      "url": "https://www.microsoft.com/en/customers/story/1689174937531212442-information-system-authority-government-azure-en-estonia",
+      "findings": [
+        {
+          "entity": "RIA",
+          "project": "Bürokratt",
+          "platform": "Microsoft Azure",
+          "type": "direct_partnership",
+          "issue": "no_competitive_tender"
+        }
+      ]
+    },
+    {
+      "name": "National Audit Office",
+      "url": "https://news-pravda.com/world/2025/09/17/1694593.html",
+      "findings": [
+        {
+          "entity": "Defense Ministry",
+          "period": "2023-2024",
+          "issue": "murky_procurements",
+          "value_at_risk": 140000000,
+          "currency": "EUR",
+          "details": "Failed to conduct inventory for €40M in 2023"
+        }
+      ]
+    },
+    {
+      "name": "OECD Report 2025",
+      "url": "https://www.oecd.org/en/publications/strategic-public-procurement-and-professionalisation-initiatives-in-estonia_56e03f80-en.html",
+      "key_findings": [
+        "innovation_procurement_below_target",
+        "professionalisation_gaps",
+        "strategic_procurement_underutilized"
+      ]
+    },
+    {
+      "name": "Broadcom VMware Impact",
+      "url": "https://www.theregister.com/2026/01/31/broadcom_vmware_cloud_partners/",
+      "affected_entities": [
+        {
+          "name": "WaveCom",
+          "country": "Estonia",
+          "vmware_investment_years": 15,
+          "deadline": "2026-03"
+        }
+      ]
+    },
+    {
+      "name": "Rahandusministeerium Statistics",
+      "url": "https://fin.ee/sites/default/files/documents/2025-06/2024.a%20riigihangete%20valdkonna%20statistika%20ja%20kokkuv%C3%B5te.pdf",
+      "type": "pdf",
+      "statistics_year": 2024
+    }
+  ],
+  "legal_framework": {
+    "primary_law": "Riigihangete seadus (Public Procurement Act)",
+    "enacted": "2017-06",
+    "last_amended": "2024",
+    "review_body": "Riigihangete Vaidlustuskomisjon",
+    "central_purchasing_body": "RIT (Riigi IT Keskus)",
+    "thresholds": {
+      "direct_award": 30000,
+      "simplified_goods_services": 60000,
+      "simplified_works": 150000,
+      "eu_threshold_services": 135000,
+      "eu_threshold_works": 5225000
+    }
+  }
+}
